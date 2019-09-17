@@ -4,6 +4,7 @@ A comprehensive guide to Computer Science system tools
 ### Terminal
 - Setup the basic terminal on mac: 
 - Customization of the terminal: https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961
+- tmux, screen
 
 ### Git
 - Setup Git: 
@@ -13,7 +14,11 @@ A comprehensive guide to Computer Science system tools
 - Sublime
 - IntelliJ
 - Pycharm
+- vscode
 - Vim
+
+### Machine Learning
+
 
 ## Languages
 ### C++
@@ -21,3 +26,6 @@ A comprehensive guide to Computer Science system tools
 - C++ containers reference: http://www.cplusplus.com/reference/stl/
 
 ### Python
+- sklearn
+- pandas
+- numpy
