@@ -6,6 +6,8 @@ A comprehensive guide to Computer Science system tools
 - Customization of the terminal: https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961
 - tmux, screen
 
+### Environment
+
 ### Git
 - Setup Git: 
 - Most useful commands on git: 
